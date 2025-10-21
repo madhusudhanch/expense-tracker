@@ -1,5 +1,5 @@
 ## Live Demo
-Play the game online: [Rock Paper Scissors](https://madhusudhanch.github.io/rock-paper-scissors/)
+Play the game online: [Expense Tracker](https://madhusudhanch.github.io/expense-tracker/)
 
 ---
 
